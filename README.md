@@ -16,8 +16,8 @@ O **Cardslider** é um projeto simples desenvolvido para praticar e adquirir exp
 - [Swiper.js](https://swiperjs.com/)  
 
 ## 📱 Responsividade
-- **1 card** em telas menores (mobile)  
-- **2 cards** em tablets  
+- **2 card** em telas menores (mobile)  
+- **3 cards** em tablets  
 - **4 cards** em telas maiores (desktop)  
 
 ## 🎯 Objetivo
